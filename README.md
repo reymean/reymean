@@ -13,6 +13,7 @@ IT support and fiber field technician in Dallas, TX, studying cybersecurity at C
 |---|---|---|
 | [**NetScroll**](https://github.com/reymean/netscroll) | TikTok-style Network+ study app with spaced repetition, EN/RU, and a content validator | [Live](https://reymean.github.io/netscroll/) |
 | [**Discord bots**](https://github.com/reymean/discord-bots) | AI channel builder (Claude API) + a 23-command server admin bot for a community server | Code |
+| [**Telegram join-request bot**](https://github.com/reymean/telegram-join-bot) | Screens people asking to join a 400-member community group, with Accept/Decline buttons for moderators | Code |
 | [**Gate Counter**](https://github.com/reymean/gate-counter) | Tap-to-count guest tracker I used at a real event gate | [Live](https://reymean.github.io/gate-counter/) |
 | [**The Company Ledger**](https://github.com/reymean/company-ledger) | Interactive Business English lesson game I use in weekly lessons | [Live](https://reymean.github.io/company-ledger/) |
 
